@@ -1,4 +1,11 @@
-use mavenmovies; 
+/*SOURCE: https://www.kaggle.com/datasets/atanaskanev/sqlite-sakila-sample-database*/
+
+/*
+THE SITUATION:
+You and your business partner were recently approached by another local business owner who is interested in purchasing the movie rental company. 
+He primarily owns restaurants and bars, so he has lots of questions for you about your business and the rental business in general. 
+His offer seems very generous, so you are going to entertain his questions.
+*/
 
 /* 
 1. My partner and I want to come by each of the stores in person and meet the managers. 
