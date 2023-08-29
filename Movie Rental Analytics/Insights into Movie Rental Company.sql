@@ -1,4 +1,4 @@
-/*SOURCE: https://www.kaggle.com/datasets/atanaskanev/sqlite-sakila-sample-database*/ 
+/*SOURCE: https://www.kaggle.com/datasets/atanaskanev/sqlite-sakila-sample-database*/
 
 /*
 THE SITUATION:
