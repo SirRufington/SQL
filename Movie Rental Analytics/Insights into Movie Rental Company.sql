@@ -1,4 +1,4 @@
-use mavenmovies;
+use mavenmovies; 
 
 /* 
 1. My partner and I want to come by each of the stores in person and meet the managers. 
